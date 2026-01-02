@@ -9,7 +9,10 @@
 ---
 
 ## Education
-
+- **SeSAC iOS Devloper**  
+  _2025.12.29 ~ ing_  
+  - Studied `UIKit`, `SwiftUI`, `Combine`, `RxSwift`, etc.
+    
 - **Boostcamp AI Tech – Recommender System Track**  
   _2024.08.05 ~ 2025.02.12_  
   - Studied `pandas`, `NumPy`, `PyTorch`, `WandB`, `Git`, `Docker`, etc.  
