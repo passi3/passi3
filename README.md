@@ -11,11 +11,11 @@
 ## Education
 - **SeSAC iOS Devloper**  
   _2025.12.29 ~ ing_  
-  - Studied `UIKit`, `SwiftUI`, `Combine`, `RxSwift`, etc.
+  - Studied `iOS`, `Reactive Programming`, `Concurrency`, with `UIKit`, `SwiftUI`, `Combine`, `RxSwift`, etc.
     
 - **Boostcamp AI Tech – Recommender System Track**  
   _2024.08.05 ~ 2025.02.12_  
-  - Studied `pandas`, `NumPy`, `PyTorch`, `WandB`, `Git`, `Docker`, etc.  
+  - Studied `ML`, `CS`, `Statistics` with `pandas`, `NumPy`, `PyTorch`, `WandB`, `Git`, `Docker`, etc.  
   - Participated in **4 RecSys competitions**, winning 🥇 **1st place in one of them**  
   - Built pipelines using **Matrix Factorization**, **BERT4Rec**, and **Self-Supervised Learning**  
   - Collaborated with Git/GitHub and agile sprints with team retrospectives and reviews  
