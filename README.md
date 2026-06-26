@@ -1,6 +1,7 @@
 ## About Me
 
 - committed to continuous learning and improving engineering practices
+- open to exploring new ideas and technologies, embracing experimentation as a way to learn and grow
 - care deeply about writing **maintainable**, **testable**, and **scalable** code  
 - enjoy participating in **architecture design**, **code reviews**, and **project retrospectives**
 - experienced in **working closely with clients** — spent 3 years as a **Technical Account Manager** in the **ad tech** industry, building strong communication skills and product understanding from a business perspective
